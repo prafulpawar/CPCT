@@ -1,0 +1,6 @@
+{
+  "name": "CPCT Typing Lab & Mock Test Engine",
+  "description": "Hindi & English typing practice with live WPM/accuracy, backspace analysis, full CPCT mock tests, and student performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
